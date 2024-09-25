@@ -1,0 +1,20 @@
+ls -l
+clear
+./cc
+./cc
+echo    Hello    World
+./cc
+./cc
+./cc
+mkdir newdir
+ls
+clear
+rmdir newdir
+history5
+history 5
+duasdhs
+rmdir djasid
+clear
+dnsdas
+clear
+asahdhs
