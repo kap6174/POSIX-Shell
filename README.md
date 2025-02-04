@@ -1,9 +1,5 @@
 <!-- To view the README.md in proper format open preview-->
-# POSIX Shell Implementation
-
-Junaid Ahmed  
-Roll No: 2024201018  
-M.Tech CSE
+# POSH - POSIX Shell Implementation
 
 ---
 
